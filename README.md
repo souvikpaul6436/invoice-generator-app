@@ -5,9 +5,7 @@
 
 An Invoice Generator project built with React and TailwindCSS. Add items, quantity, prices, tax rates and discounts. Download Generated Invoices as PDFs to your device and print out. Use [html-to-image](https://github.com/bubkoo/html-to-image) to capture the data from modal and convert it from canvas to pdf with [jsPDF](https://github.com/parallax/jsPDF).
 
-### Live Demo
 
-https://invoice-generator-app-hritik-6918.vercel.app/
 
 ### Screenshots
 
@@ -23,16 +21,4 @@ https://invoice-generator-app-hritik-6918.vercel.app/
 - Html-to-image
 - jsPDF
 
-### Installation
 
-```
-git clone https://github.com/hritik-6918/invoice-generator
-
-npm install
-
-npm start / npm run build
-```
-
-### Meta
-
-Hritik kumar
